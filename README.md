@@ -3,9 +3,9 @@
 
 # dash-financeiro
 
-Dash Financeiro Atualizado todo dia
+Dash Financeiro Atualizado todo dia.
 
 ``` r
 Sys.time()
-#> [1] "2025-05-21 19:23:17 -03"
+#> [1] "2025-05-21 22:39:54 UTC"
 ```
